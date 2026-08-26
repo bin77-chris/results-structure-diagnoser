@@ -1,7 +1,6 @@
 ---
 name: "results-structure-diagnoser"
 description: "Diagnose macro-structure & organization of English psychology Results sections (8 dimensions)."
-version: 0.1.1
 ---
 
 # Results Structure Diagnoser
